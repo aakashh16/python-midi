@@ -5,7 +5,7 @@ from setuptools import setup, Extension
 import setuptools.command.install
 
 __base__ = {
-    'name':'midi', 
+    'name':'aakmidi', 
     'version':'v0.2.3',
     'description':'Python MIDI API',
     'author':'giles hall',
